@@ -1,0 +1,78 @@
+<xwebgen-sections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.xtpxlib.nl/ns/xwebgen ../../../xtpxlib-xwebgen/xsd/xwebgen-sections.xsd" xmlns="http://www.xtpxlib.nl/ns/xwebgen"
+ xmlns:xtlwg="http://www.xtpxlib.nl/ns/xwebgen">
+
+  <!-- ================================================================== -->
+  <!-- HOME PAGE: -->
+
+  <section id="home" xtlwg:lang="nl">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <h1>Xatapult: Content Engineering</h1>
+      <br/>
+
+      <p class="subkop">Xatapult?</p>
+      <p>Xatapult is het (eenmans) bedrijf van Erik&#160;Siegel. Xatapult specialiseert zich volledig in Content Engineering en XML verwerking.</p>
+      <br/>
+
+      <p class="subkop">Waarmee kan ik u helpen?</p>
+      <ul>
+        <li>Adviseren over de toepassing van XML</li>
+        <li>Het ontwerpen of aanpassen van content modellen, zowel de formele (schema's) als de communicatieve kant (documentatie)</li>
+        <li>Het modelleren en documenteren van XML gebaseerde standaarden</li>
+        <li>Het schrijven van content transformaties en applicaties in talen als XSLT, XProc of XQuery</li>
+        <li>Het overbrengen van deze kennis middels één-op-één coaching of als cursus</li>
+        <li>Andere XML, content of documentatie gerelateerde vraagstukken</li>
+      </ul>
+      <p>Neem vrijblijvend <a href="contact.html">contact</a> op.</p>
+      <br/>
+
+      <p class="subkop">Meer weten?</p>
+      <ul>
+        <li>Over <a href="content-engineering.html">Content Engineering</a></li>
+        <li>Over <a href="xml.html">XML</a></li>
+        <li>Over <a href="about.html">Xatapult</a></li>
+        <li>Over <a href="erik.html">Erik Siegel</a></li>
+      </ul>
+
+    </div>
+  </section>
+
+  <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+  <section id="home" xtlwg:lang="en">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <h1>Xatapult: Content Engineering</h1>
+      <br/>
+
+      <p class="subkop">Xatapult?</p>
+      <p>Xatapult is the (one-man) company run by Erik&#160;Siegel. Xatapult specializes completely in Content Engineering and XML processing.</p>
+      <br/>
+      
+      <p class="subkop">How may I help you?</p>
+      <ul>
+        <li>Advise on the application of XML</li>
+        <li>Designing or modifying content models, both the formal (schemas) and the communicative side (documentation)</li>
+        <li>The modeling and documentation of XML based standards</li>
+        <li>Writing content transformations and applications in languages ​​like XSLT, XProc or XQuery</li>
+        <li>Transferring this knowledge through one-on-one coaching or as a course</li>
+        <li>Other XML, content or documentation related issues</li>
+      </ul>
+      <p>Feel free to <a href="contact.html">contact</a> me.</p>
+      <br/>
+
+     
+      <p class="subkop">Need to know more?</p>
+      <ul>
+        <li>About <a href="content-engineering.html">Content Engineering</a></li>
+        <li>About <a href="xml.html">XML</a></li>
+        <li>About <a href="about.html">Xatapult</a></li>
+        <li>About <a href="erik.html">Erik Siegel</a></li>
+      </ul>
+      <br/>
+
+    </div>
+  </section>
+
+</xwebgen-sections>

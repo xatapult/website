@@ -5,8 +5,8 @@
         <options/>
     </meta>
     <projectTree name="xatapult-website-dev.xpr">
+        <folder path="../../website-ina/"/>
         <folder path="../"/>
-        <folder path="../../xtpxlib-common/"/>
         <folder path="../../xtpxlib-xwebgen/"/>
     </projectTree>
 </project>

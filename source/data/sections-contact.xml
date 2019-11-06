@@ -17,7 +17,7 @@
       <p>Mail: <a href="mailto:${email}">${email}</a>
       </p>
       <br/>
-      <p>BTW Nummer: NL137788186B01</p>
+      <p>BTW Nummer: NL001654294B54</p>
       <p>KvK Nummer: 02072375</p>
       <br/>
       <p>ASN Bank (IBAN): NL68 SNSB 0707 2231 21 (ten name van: R.E. Siegel, Groningen)</p>
@@ -52,7 +52,7 @@
       <p>Mail: <a href="mailto:${email}">${email}</a>
       </p>
       <br/>
-      <p>VAT code: NL137788186B01</p>
+      <p>VAT code: NL001654294B54</p>
       <p>Chamber of Commerce code: 02072375</p>
       <br/>
       <p>Bank account (IBAN): NL68 SNSB 0707 2231 21 (in the name of: R.E. Siegel, Groningen, The Netherlands)</p>

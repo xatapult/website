@@ -61,7 +61,6 @@
 
       <section xtlwg:lang="nl" title="Meer Xatapult:">
         <entry href="${homelink-other}">English version</entry>
-        <entry href="http://xatapult.wordpress.com" newwindow="true">Xatapult's XML Blog</entry>
         <entry href="http://www.linkedin.com/in/esiegel" newwindow="true">LinkedIn Erik</entry>
         <entry href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" newwindow="true">CV</entry>
         
@@ -69,7 +68,6 @@
 
       <section xtlwg:lang="en" title="More Xatapult:">
         <entry href="${homelink-other}">Dutch version</entry>
-        <entry href="http://xatapult.wordpress.com" newwindow="true">Xatapult's XML Blog</entry>
         <entry href="http://www.linkedin.com/in/esiegel" newwindow="true">LinkedIn Erik</entry>
         <entry href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" newwindow="true">CV</entry>
       </section>
@@ -77,11 +75,13 @@
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
       <section xtlwg:lang="nl" title="Publicaties:">
+        <entry href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" newwindow="true">An Introduction to XProc 3.0</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-safexslt/index.html" newwindow="true">Safer XSLT Stylesheets</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-qti/index.html" newwindow="true">QTI results processing</entry>
       </section>
 
-      <section xtlwg:lang="en" title="On&#160;IBM&#160;developerWorks:">
+      <section xtlwg:lang="en" title="Publications:">
+        <entry href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" newwindow="true">An Introduction to XProc 3.0</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-safexslt/index.html" newwindow="true">Safer XSLT Stylesheets</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-qti/index.html" newwindow="true">QTI results processing</entry>
       </section>
@@ -112,7 +112,8 @@
 
       <section xtlwg:lang="nl" title="XML:">
         <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">Wikipedia</entry>
-        <entry href="http://www.w3schools.com/" newwindow="true">W3C Schools</entry>
+        <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
+        <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
         <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>
         <entry href="http://www.xml.org" newwindow="true">Oasis XML Website</entry>
         <entry href="http://www.w3.org/XML/" newwindow="true">W3C XML Website</entry>
@@ -120,7 +121,8 @@
 
       <section xtlwg:lang="en" title="XML:">
         <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">Wikipedia</entry>
-        <entry href="http://www.w3schools.com/" newwindow="true">W3C Schools</entry>
+        <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
+        <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
         <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>
         <entry href="http://www.xml.org" newwindow="true">Oasis XML Website</entry>
         <entry href="http://www.w3.org/XML/" newwindow="true">W3C XML Website</entry>

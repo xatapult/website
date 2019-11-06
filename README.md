@@ -7,5 +7,5 @@ This repository holds the source code for the Xatapult websites ([http://www.xat
 
 To create the website:
 
-- Run `xatapult-website-xwebgen/xpl/create-xatapult-website.xpl` (inside oXygen or on the command line). The results can be found in `/build` 
+- Run `xpl/create-xatapult-website.xpl` (inside oXygen or on the command line). The results can be found in `/build` 
 - Move the PRD versions of the sites to the Xatapult production server in `/home/erik/web`

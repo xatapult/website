@@ -17,7 +17,7 @@
       </menu>
 
       <!-- Profiel -->
-      <menu href="about.html" caption="profiel" xtlwg:lang="nl">
+      <!--<menu href="about.html" caption="profiel" xtlwg:lang="nl">
         <submenu href="about.html" caption="over Xatapult"/>
         <submenu href="customers.html" caption="klanten"/>
         <submenu href="services.html" caption="diensten"/>
@@ -28,17 +28,17 @@
         <submenu href="customers.html" caption="customers"/>
         <submenu href="services.html" caption="services"/>
         <submenu href="erik.html" caption="about Erik Siegel"/>
-      </menu>
+      </menu>-->
 
       <!-- Achtergronden -->
-      <menu href="content-engineering.html" caption="achtergrond informatie" xtlwg:lang="nl">
+     <!-- <menu href="content-engineering.html" caption="achtergrond informatie" xtlwg:lang="nl">
         <submenu href="content-engineering.html" caption="content engineering"/>
         <submenu href="xml.html" caption="xml"/>
       </menu>
       <menu href="content-engineering.html" caption="background information" xtlwg:lang="en">
         <submenu href="content-engineering.html" caption="content engineering"/>
         <submenu href="xml.html" caption="xml"/>
-      </menu>
+      </menu>-->
 
       <!-- Publicaties -->
       <menu href="publications.html" caption="publicaties" xtlwg:lang="nl"/>
@@ -71,17 +71,32 @@
         <entry href="http://www.linkedin.com/in/esiegel" newwindow="true">LinkedIn Erik</entry>
         <entry href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" newwindow="true">CV</entry>
       </section>
+      
+      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+      
+      <section xtlwg:lang="nl" title="Boeken:">
+        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
+        <entry href="https://xmlpress.net/publications/xproc-3-0/" newwindow="true">XProc&#160;3.0</entry>
+      </section>
+      
+      <section xtlwg:lang="en" title="Books:">
+        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
+        <entry href="https://xmlpress.net/publications/xproc-3-0/" newwindow="true">XProc&#160;3.0</entry>
+      </section>
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-      <section xtlwg:lang="nl" title="Publicaties:">
-        <entry href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" newwindow="true">An Introduction to XProc 3.0</entry>
+      <section xtlwg:lang="nl" title="Artikelen:">
+        <entry href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" newwindow="true">An Introduction to XProc&#160;3.0</entry>
+        <entry href="https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/" newwindow="true">XProc&#160;3.0 - Connecting steps</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-safexslt/index.html" newwindow="true">Safer XSLT Stylesheets</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-qti/index.html" newwindow="true">QTI results processing</entry>
       </section>
 
-      <section xtlwg:lang="en" title="Publications:">
+      <section xtlwg:lang="en" title="Articles:">
         <entry href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" newwindow="true">An Introduction to XProc 3.0</entry>
+        <entry href="https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/" newwindow="true">XProc&#160;3.0 - Connecting
+          steps</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-safexslt/index.html" newwindow="true">Safer XSLT Stylesheets</entry>
         <entry href="http://www.ibm.com/developerworks/library/x-qti/index.html" newwindow="true">QTI results processing</entry>
       </section>
@@ -94,24 +109,9 @@
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-      <section xtlwg:lang="nl" title="Boeken:">
-        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
-      </section>
-
-      <section xtlwg:lang="en" title="Books:">
-        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
-      </section>
-
-      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-      <section title="Content Engineering:">
-        <entry href="http://en.wikipedia.org/wiki/Content_Engineering" newwindow="true">Wikipedia</entry>
-      </section>
-
-      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-      <section xtlwg:lang="nl" title="XML:">
-        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">Wikipedia</entry>
+      <section xtlwg:lang="nl" title="Aanvullende informatie:">
+        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">XML</entry>
+        <entry href="http://en.wikipedia.org/wiki/Content_Engineering" newwindow="true">Content Engineering</entry>
         <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
         <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
         <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>
@@ -119,8 +119,9 @@
         <entry href="http://www.w3.org/XML/" newwindow="true">W3C XML Website</entry>
       </section>
 
-      <section xtlwg:lang="en" title="XML:">
-        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">Wikipedia</entry>
+      <section xtlwg:lang="en" title="Additional information:">
+        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">XML</entry>
+        <entry href="http://en.wikipedia.org/wiki/Content_Engineering" newwindow="true">Content Engineering</entry>
         <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
         <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
         <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>

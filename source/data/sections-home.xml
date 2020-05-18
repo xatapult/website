@@ -1,6 +1,6 @@
 <xwebgen-sections xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.xtpxlib.nl/ns/xwebgen ../../../xtpxlib-xwebgen/xsd/xwebgen-sections.xsd" xmlns="http://www.xtpxlib.nl/ns/xwebgen"
- xmlns:xtlwg="http://www.xtpxlib.nl/ns/xwebgen">
+  xsi:schemaLocation="http://www.xtpxlib.nl/ns/xwebgen ../../../xtpxlib-xwebgen/xsd/xwebgen-sections.xsd" xmlns="http://www.xtpxlib.nl/ns/xwebgen"
+  xmlns:xtlwg="http://www.xtpxlib.nl/ns/xwebgen">
 
   <!-- ================================================================== -->
   <!-- HOME PAGE: -->
@@ -11,30 +11,36 @@
       <h1>Xatapult: Content Engineering</h1>
       <br/>
 
-      <p class="subkop">Xatapult?</p>
-      <p>Xatapult is het (eenmans) bedrijf van Erik&#160;Siegel. Xatapult specialiseert zich volledig in Content Engineering en XML verwerking.</p>
-      <br/>
+      <table class="noborder">
+        <tr valign="top">
+          <td class="noborder">
+            <p>Xatapult is het bedrijf van Erik&#160;Siegel.</p>
+            <br/>
+            <p>Ik specialiseer me in content engineering, XML verwerking en technische documentatie. Mijn bedrijf Xatapult helpt bedrijven die in deze
+              expertise of capaciteit te kort komen.</p>
+            <br/>
+            <p>Ik heb een technische IT achtergrond. Na zo'n 20 jaar voor diverse kleine en grote bedrijven gewerkt te hebben, ben ik in 2001 voor
+              mezelf begoinnen. Sinds 2009 specialiseer ik me volledig in content engineering en XML.</p>
 
-      <p class="subkop">Waarmee kan ik u helpen?</p>
-      <ul>
-        <li>Adviseren over de toepassing van XML</li>
-        <li>Het ontwerpen of aanpassen van content modellen, zowel de formele (schema's) als de communicatieve kant (documentatie)</li>
-        <li>Het modelleren en documenteren van XML gebaseerde standaarden</li>
-        <li>Het schrijven van content transformaties en applicaties in talen als XSLT, XProc of XQuery</li>
-        <li>Het overbrengen van deze kennis middels één-op-één coaching of als cursus</li>
-        <li>Andere XML, content of documentatie gerelateerde vraagstukken</li>
-      </ul>
-      <p>Neem vrijblijvend <a href="contact.html">contact</a> op.</p>
-      <br/>
-
-      <p class="subkop">Meer weten?</p>
-      <ul>
-        <li>Over <a href="content-engineering.html">Content Engineering</a></li>
-        <li>Over <a href="xml.html">XML</a></li>
-        <li>Over <a href="about.html">Xatapult</a></li>
-        <li>Over <a href="erik.html">Erik Siegel</a></li>
-      </ul>
-
+            <br/>
+            <p>Ik zoek bewust naar projecten op alle niveau's: Van advies tot applicatie ontwikkeling. Praktische ervaring is belangrijk.</p>
+            <br/>
+            <p>Een belangrijke niet-technische vaardigheid is kunnen uitleggen en overbrengen in de vorm van documentatie of training. Ik ben de
+              auteur van twee XML technologie boeken.</p>
+            <br/>
+            <p>Voor meer informatie zie mijn <a href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" target="_blank">CV</a> of mijn <a
+                href="https://www.linkedin.com/in/esiegel/" target="_blank">LinkedIn profiel</a>. </p>
+          </td>
+          <td class="noborder" nowrap="yes"
+              >&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<!--<img src="images/erik.jpg" alt="Erik Siegel"
+              height="225px" width="225px"/>--><img
+              src="images/erik2.jpg" alt="Erik Siegel" width="250px"/>
+            <p align="right">
+              <font size="-3" color="#999">(foto: Maaike&#160;Siegel)</font>
+            </p>
+          </td>
+        </tr>
+      </table>
     </div>
   </section>
 
@@ -46,31 +52,36 @@
       <h1>Xatapult: Content Engineering</h1>
       <br/>
 
-      <p class="subkop">Xatapult?</p>
-      <p>Xatapult is the (one-man) company run by Erik&#160;Siegel. Xatapult specializes completely in Content Engineering and XML processing.</p>
-      <br/>
-      
-      <p class="subkop">How may I help you?</p>
-      <ul>
-        <li>Advise on the application of XML</li>
-        <li>Designing or modifying content models, both the formal (schemas) and the communicative side (documentation)</li>
-        <li>The modeling and documentation of XML based standards</li>
-        <li>Writing content transformations and applications in languages ​​like XSLT, XProc or XQuery</li>
-        <li>Transferring this knowledge through one-on-one coaching or as a course</li>
-        <li>Other XML, content or documentation related issues</li>
-      </ul>
-      <p>Feel free to <a href="contact.html">contact</a> me.</p>
-      <br/>
-
-     
-      <p class="subkop">Need to know more?</p>
-      <ul>
-        <li>About <a href="content-engineering.html">Content Engineering</a></li>
-        <li>About <a href="xml.html">XML</a></li>
-        <li>About <a href="about.html">Xatapult</a></li>
-        <li>About <a href="erik.html">Erik Siegel</a></li>
-      </ul>
-      <br/>
+      <table class="noborder">
+        <tr valign="top">
+          <td class="noborder">
+            <p>Xatapult is the company of Erik&#160;Siegel.</p>
+            <br/>
+            <p>Content engineering, XML processing and technical documentation are the fields I specialize in. My company Xatapult supports companies
+              that either lack the knowledge or the capacity in these fields of expertise.</p>
+            <br/>
+            <p>I have a technical IT background. After 20 years working for sev¬eral large and small companies, in jobs ranging from pro¬grammer to
+              architect, I started my own con¬sulting company in 2001. Starting 2009, I specialized in content engineering and XML.</p>
+            <br/>
+            <p>I am deliberately looking for projects on all levels: from consulting to application development. Actual experience is important in
+              giving advice. </p>
+            <br/>
+            <p>My ability to explain things, either by providing training or writing technical documentation, is an important non-technical skill. I
+              am the author of two XML technology related books.</p>
+            <br/>
+            <p>For more detailed information see my <a href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" target="_blank">CV</a> or <a
+                href="https://www.linkedin.com/in/esiegel/" target="_blank">LinkedIn profile</a>. </p>
+          </td>
+          <td class="noborder" nowrap="yes"
+              >&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<!--<img src="images/erik.jpg" alt="Erik Siegel"
+              height="225px" width="225px"/>--><img
+              src="images/erik2.jpg" alt="Erik Siegel" width="250px"/>
+            <p align="right">
+              <font size="-3" color="#999">(Photo by Maaike&#160;Siegel)</font>
+            </p>
+          </td>
+        </tr>
+      </table>
 
     </div>
   </section>

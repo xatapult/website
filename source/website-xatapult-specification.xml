@@ -23,15 +23,15 @@
   <page template-idref="main" href-section-document="data/sections-home.xml" section-idref="home" href-target="index.html"/>
 
   <!-- Profile pages: -->
-  <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-about" href-target="about.html"/>
+  <!--<page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-about" href-target="about.html"/>
   <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-customers" href-target="customers.html"/>
   <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-services" href-target="services.html"/>
-  <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-erik" href-target="erik.html"/>
+  <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-erik" href-target="erik.html"/>-->
 
   <!-- Background pages: -->
-  <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-content-engineering"
+ <!-- <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-content-engineering"
     href-target="content-engineering.html"/>
-  <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-xml" href-target="xml.html"/>
+  <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-xml" href-target="xml.html"/>-->
 
   <!-- Publications: -->
   <page template-idref="main" href-section-document="data/sections-publications.xml" section-idref="page-publications" href-target="publications.html"/>
@@ -56,8 +56,8 @@
     <property id="page-title">Xatapult - Content Engineering</property>
 
     <!-- Phone and e-mail basics: -->
-    <property id="phonenumber" xtlwg:lang="nl">06&#160;-&#160;53.26.07.92</property>
-    <property id="phonenumber" xtlwg:lang="en">+31&#160;-&#160;6&#160;-&#160;53.26.07.92</property>
+    <property id="phonenumber" xtlwg:lang="nl">06&#160;-&#160;53260792</property>
+    <property id="phonenumber" xtlwg:lang="en">+31&#160;-&#160;6&#160;-&#160;53260792</property>
     <property id="email" xtlwg:lang="nl">info@xatapult.nl</property>
     <property id="email" xtlwg:lang="en">info@xatapult.com</property>
 

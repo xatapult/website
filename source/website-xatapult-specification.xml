@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xwebgen-specification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.xtpxlib.nl/ns/xwebgen ../../xtpxlib-xwebgen/xsd/xwebgen-specification.xsd"
-  xmlns="http://www.xtpxlib.nl/ns/xwebgen" xmlns:xtlwg="http://www.xtpxlib.nl/ns/xwebgen"
-  href-base-output-dir="../build/site-${lang}-${system}">
+  xsi:schemaLocation="http://www.xtpxlib.nl/ns/xwebgen ../../xtpxlib-xwebgen/xsd/xwebgen-specification.xsd" xmlns="http://www.xtpxlib.nl/ns/xwebgen"
+  xmlns:xtlwg="http://www.xtpxlib.nl/ns/xwebgen" href-base-output-dir="../build/site-${lang}-${system}">
 
   <!-- ================================================================== -->
   <!--
@@ -29,7 +28,7 @@
   <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-erik" href-target="erik.html"/>-->
 
   <!-- Background pages: -->
- <!-- <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-content-engineering"
+  <!-- <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-content-engineering"
     href-target="content-engineering.html"/>
   <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-xml" href-target="xml.html"/>-->
 
@@ -72,6 +71,20 @@
     <property id="homelink-other" xtlwg:lang="nl" xtlwg:system="PRD">http://www.xatapult.com</property>
     <property id="homelink-other" xtlwg:lang="en" xtlwg:system="PRD">http://www.xatapult.nl</property>
 
+    <!-- Address: -->
+    <property id="address-line">Speenkruidstraat&#160;100</property>
+    <property id="postal-code">9731&#160;GX</property>
+    <property id="city">Groningen</property>
+    <property id="country" xtlwg:lang="en">The&#160;Netherlands</property>
+    <property id="country" xtlwg:lang="nl"/>
+
+    <!-- Others: -->
+    <property id="bankaccount">NL16&#160;ASNB&#160;0707&#160;2231&#160;21</property>
+    <property id="bic">ASNBNL21</property>
+    <property id="bank-name">ASN&#160;Bank</property>
+    <property id="vat-code">NL001654294B54</property>
+    <property id="kvk-code">02072375</property>
+    
   </properties>
 
 </xwebgen-specification>

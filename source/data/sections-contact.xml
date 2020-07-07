@@ -7,8 +7,8 @@
       <h1>Contactgegevens en informatie</h1>
 
       <p class="subkop">Xatapult</p>
-      <p>Speenkruidstraat 100</p>
-      <p>9731&#160;GX&#160;&#160;Groningen</p>
+      <p>${address-line}</p>
+      <p>${postal-code}&#160;&#160;${city}</p>
       <br/>
       <p>Tel: ${phonenumber}</p>
       <br/>
@@ -17,10 +17,10 @@
       <p>Mail: <a href="mailto:${email}">${email}</a>
       </p>
       <br/>
-      <p>BTW Nummer: NL001654294B54</p>
-      <p>KvK Nummer: 02072375</p>
+      <p>BTW Nummer: ${vat-code}</p>
+      <p>KvK Nummer: ${kvk-code}</p>
       <br/>
-      <p>ASN Bank (IBAN): NL68 SNSB 0707 2231 21 (ten name van: R.E. Siegel, Groningen)</p>
+      <p>${bank-name} (IBAN): ${bankaccount} (ten name van: R.E. Siegel, ${city})</p>
       <br/>
       <p>
         <a href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" target="_blank">Bedrijfsprofiel/CV</a> (Engelstalig) </p>
@@ -41,9 +41,9 @@
       <h1>Contact and information</h1>
       
       <p class="subkop">Xatapult: Content Engineering</p>
-      <p>Speenkruidstraat 100</p>
-      <p>9731&#160;GX&#160;&#160;Groningen</p>
-      <p>The Netherlands</p>
+      <p>${address-line}</p>
+      <p>${postal-code}&#160;&#160;${city}</p>
+      <p>${country}</p>
       <br/>
       <p>Phone: ${phonenumber}</p>
       <br/>
@@ -52,11 +52,11 @@
       <p>Mail: <a href="mailto:${email}">${email}</a>
       </p>
       <br/>
-      <p>VAT code: NL001654294B54</p>
-      <p>Chamber of Commerce code: 02072375</p>
+      <p>VAT code: ${vat-code}</p>
+      <p>Chamber of Commerce code: ${kvk-code}</p>
       <br/>
-      <p>Bank account (IBAN): NL68 SNSB 0707 2231 21 (in the name of: R.E. Siegel, Groningen, The Netherlands)</p>
-      <p>BIC (ASN bank, The Netherlands): SNSBNL2A</p>
+      <p>Bank account (IBAN): ${bankaccount} (in the name of: R.E. Siegel, ${city}, ${country})</p>
+      <p>BIC (${bank-name}, ${country}): ${bic}</p>
       <br/>
       <p>
         <a href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" target="_blank">Company profile/resume</a>

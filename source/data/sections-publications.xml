@@ -19,9 +19,6 @@
         <li>
           <a href="#wpxmlcom">Artikelen op XML.com</a>
         </li>
-        <li>
-          <a href="#wpibm">Artikelen op IBM developerWorks</a>
-        </li>
         <li>Whitepapers:<ul>
             <li>
               <a href="#wp5">Content Packaging met Cocoon</a>
@@ -103,24 +100,9 @@
           <a href="https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/" target="_blank">XProc&#160;3.0 - Connecting steps
             using ports</a>
         </li>
-      </ul>
-      <br/>
-      <hr/>
-      <br/>
-
-      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-      <a name="wpibm"><!-- --></a>
-      <p class="subkop">Artikelen op <a href="http://www.ibm.com/developerworks/" target="_blank">IBM developerWorks</a>
-      </p>
-      <p>Op de website <a href="http://www.ibm.com/developerworks/" target="_blank">IBM developerWorks</a> zijn de volgende artikelen van mijn hand
-        verschenen (Engelstalig):</p>
-      <ul>
         <li>
-          <a href="http://www.ibm.com/developerworks/library/x-safexslt/index.html" target="_blank">Write safer XSLT stylesheets</a>
-        </li>
-        <li>
-          <a href="http://www.ibm.com/developerworks/library/x-qti/index.html" target="_blank">QTI results processing</a>
+          <a href="https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/" target="_blank">XProc&#160;3.0 - Strategies for
+            merging documents</a>
         </li>
       </ul>
       <br/>
@@ -265,11 +247,6 @@
         <li>
           <a href="#wpxmlcom">Articles on XML.com</a>
         </li>
-
-        <li>
-          <a href="#wpibm">Articles on IBM developerWorks</a>
-        </li>
-
         <li>Whitepapers:<ul>
             <li>
               <a href="#wp5">Content Packaging with Cocoon</a>
@@ -345,24 +322,9 @@
           <a href="https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/" target="_blank">XProc&#160;3.0 - Connecting steps
             using ports</a>
         </li>
-      </ul>
-      <br/>
-      <hr/>
-      <br/>
-
-      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-      <a name="wpibm"><!-- --></a>
-      <p class="subkop">Articles on <a href="http://www.ibm.com/developerworks/" target="_blank">IBM developerWorks:</a>
-      </p>
-      <p>The website <a href="http://www.ibm.com/developerworks/" target="_blank">IBM developerWorks</a> published the following articles I've
-        written:</p>
-      <ul>
         <li>
-          <a href="http://www.ibm.com/developerworks/library/x-safexslt/index.html" target="_blank">Write safer XSLT stylesheets</a>
-        </li>
-        <li>
-          <a href="http://www.ibm.com/developerworks/library/x-qti/index.html" target="_blank">QTI results processing</a>
+          <a href="https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/" target="_blank">XProc&#160;3.0 - Strategies for
+            merging documents</a>
         </li>
       </ul>
       <br/>

@@ -72,9 +72,9 @@
     <property id="homelink-other" xtlwg:lang="en" xtlwg:system="PRD">http://www.xatapult.nl</property>
 
     <!-- Address: -->
-    <property id="address-line">Speenkruidstraat&#160;100</property>
-    <property id="postal-code">9731&#160;GX</property>
-    <property id="city">Groningen</property>
+    <property id="address-line">Oude&#160;Almeloseweg&#160;8</property>
+    <property id="postal-code">8025&#160;AP</property>
+    <property id="city">Zwolle</property>
     <property id="country" xtlwg:lang="en">The&#160;Netherlands</property>
     <property id="country" xtlwg:lang="nl"/>
 

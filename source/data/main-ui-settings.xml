@@ -75,31 +75,35 @@
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
       <section xtlwg:lang="nl" title="Boeken:">
-        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
+        <entry href="https://xmlpress.net/publications/schematron/" newwindow="true">Schematron</entry>
         <entry href="https://xmlpress.net/publications/xproc-3-0/" newwindow="true">XProc&#160;3.0</entry>
+        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
       </section>
 
       <section xtlwg:lang="en" title="Books:">
-        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
+        <entry href="https://xmlpress.net/publications/schematron/" newwindow="true">Schematron</entry>
         <entry href="https://xmlpress.net/publications/xproc-3-0/" newwindow="true">XProc&#160;3.0</entry>
+        <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
       </section>
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
       <section xtlwg:lang="nl" title="Artikelen:">
+        <entry href="https://www.xml.com/articles/2022/10/17/schematron-qlb-xslt/" newwindow="true">Schematron QLB and XSLT</entry>
         <entry href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" newwindow="true">An Introduction to XProc&#160;3.0</entry>
         <entry href="https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/" newwindow="true">XProc&#160;3.0 - Connecting
           steps</entry>
-        <entry href="https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/" newwindow="true">XProc&#160;3.0 - Strategies for
-          merging documents</entry>
+        <entry href="https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/" newwindow="true">XProc&#160;3.0 - Merging
+          documents</entry>
       </section>
 
       <section xtlwg:lang="en" title="Articles:">
+        <entry href="https://www.xml.com/articles/2022/10/17/schematron-qlb-xslt/" newwindow="true">Schematron QLB and XSLT</entry>
         <entry href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" newwindow="true">An Introduction to XProc 3.0</entry>
         <entry href="https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/" newwindow="true">XProc&#160;3.0 - Connecting
           steps</entry>
-        <entry href="https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/" newwindow="true">XProc&#160;3.0 - Strategies for
-          merging documents</entry>
+        <entry href="https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/" newwindow="true">XProc&#160;3.0 - Merging
+          documents</entry>
       </section>
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->

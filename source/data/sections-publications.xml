@@ -11,6 +11,9 @@
 
       <ul>
         <li>
+          <a href="#schematron-book">Schematron - A language for validating XML</a>
+        </li>
+        <li>
           <a href="#xproc-book">XProc&#160;3.0 - Programmer Reference</a>
         </li>
         <li>
@@ -44,12 +47,36 @@
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
+      <a name="schematron-book"><!-- --></a>
+      <p class="subkop">Schematron - A language for validating XML</p>
+      <table class="noborder" cellspacing="10">
+        <tr valign="top">
+          <td class="noborder">
+            <a href="https://xmlpress.net/publications/xproc-3-0/" target="_blank">
+              <img src="images/publications/schematron-cover.png"/>
+            </a>
+          </td>
+          <td class="noborder">
+            <br/> Schematron is een validatie taal voor het controleren van XML documenten tegen business rules. Het biedt aanzienlijk meer
+            mogelijkheden hiervoor dan de meer "klassieke" validatie talen, zoals Document Type Definitions (DTD), W3C&#160;XML&#160;Schema en RELAX
+            NG. XML documenten kunnen gecontroleerd worden op regels die moeilijk, zo niet onmogelijk, te implementeren zijn met de andere
+            validatietalen. Het boek is geschreven voor zowel XML-kenners/programmeurs als mensen die minder ervaren zijn.<br/> Voor lezers met weinig
+            ervaring met XML, of beperkte programmeerervaring, zijn er introducties over twee belangrijke onderwerpen: XPath en
+            XML&#160;namespaces.<br/> Het is uitgegeven door <a href="https://xmlpress.net/publications/schematron/">XML Press</a> in 2022.</td>
+        </tr>
+      </table>
+      <br/>
+      <hr/>
+      <br/>
+
+      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
       <a name="xproc-book"><!-- --></a>
       <p class="subkop">XProc - 3.0 Programmer Reference</p>
       <table class="noborder" cellspacing="10">
         <tr valign="top">
           <td class="noborder">
-            <a href="http://shop.oreilly.com/product/0636920026525.do" target="_blank">
+            <a href="https://xmlpress.net/publications/xproc-3-0/" target="_blank">
               <img src="images/publications/XProc-cover.png"/>
             </a>
           </td>
@@ -57,7 +84,7 @@
             <br/>XProc is een programmeertaal voor het verwerken van XML, JSON en andere soorten documenten in <i>pipelines</i>. Verwerking vindt
             plaats door het koppelen van losse stappen zoals conversies tot één geheel. Documentstromen kunnen worden gesplitst en samengevoegd.
             Toepassingen zijn vooral te vinden in vakgebieden met een complexe document verwerking, zoals uitgeven, documentatie en XML gebaseerde
-            standaarden. Het is uitgegeven bij <a href="https://xmlpress.net/publications/xproc-3-0/">XML&#160;Press</a>. </td>
+            standaarden. <br/>Het is uitgegeven door <a href="https://xmlpress.net/publications/xproc-3-0/">XML&#160;Press</a> in 2020. </td>
         </tr>
       </table>
       <br/>
@@ -73,13 +100,13 @@
           <td class="noborder">
             <a href="http://shop.oreilly.com/product/0636920026525.do" target="_blank">
               <!-- <img src="images/exist-book-cover.gif" width="100%"/>-->
-              <img src="http://akamaicovers.oreilly.com/images/0636920026525/cat.gif"/>
+              <img src="images/publications/exist-cover.png" width="100%"/>
             </a>
           </td>
           <td class="noborder">
             <br/>Samen met <a href="http://www.adamretter.org.uk/" target="_blank">Adam&#160;Retter</a> heb ik een boek geschreven over het XML
-            database en applicatie platform <a href="http://www.exist-db.org" target="_blank">eXist</a>. Het is uitgegeven bij O'Reilly en te koop via
-            hun <a href="http://shop.oreilly.com/product/0636920026525.do" target="_blank">webshop</a>.</td>
+            database en applicatie platform <a href="http://www.exist-db.org" target="_blank">eXist</a>.<br/>Het is uitgegeven door hun <a
+              href="http://shop.oreilly.com/product/0636920026525.do" target="_blank">O'Reilly</a> in 2014.</td>
         </tr>
       </table>
       <br/>
@@ -91,8 +118,12 @@
       <a name="wpxmlcom"><!-- --></a>
       <p class="subkop">Artikelen op <a href="https://www.xml.com/" target="_blank">XML.com</a>
       </p>
-      <p>Op de website <a href="https://www.xml.com/" target="_blank">XML.com</a> is het volgende artikel van mijn hand verschenen (Engelstalig):</p>
+      <p>Op de website <a href="https://www.xml.com/" target="_blank">XML.com</a> zijn de volgende artikelen van mijn hand verschenen
+        (Engelstalig):</p>
       <ul>
+        <li>
+          <a href="https://www.xml.com/articles/2022/10/17/schematron-qlb-xslt/" target="_blank">Schematron Query Language Binding and XSLT</a>
+        </li>
         <li>
           <a href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" target="_blank">An Introduction to XProc&#160;3.0</a>
         </li>
@@ -231,13 +262,16 @@
   </section>
 
   <!-- ================================================================== -->
-
+  <!-- ENGLISH: -->
 
   <section id="page-publications" xtlwg:lang="en">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <h1>Publications</h1>
 
       <ul>
+        <li>
+          <a href="#schematron-book">Schematron - A language for validating XML</a>
+        </li>
         <li>
           <a href="#xproc-book">XProc&#160;3.0 - Programmer Reference</a>
         </li>
@@ -266,12 +300,36 @@
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
+      <a name="schematron-book"><!-- --></a>
+      <p class="subkop">Schematron - A language for validating XML</p>
+      <table class="noborder" cellspacing="10">
+        <tr valign="top">
+          <td class="noborder">
+            <a href="https://xmlpress.net/publications/xproc-3-0/" target="_blank">
+              <img src="images/publications/schematron-cover.png"/>
+            </a>
+          </td>
+          <td class="noborder">
+            <br/>Schematron is a validation language that checks XML documents against business rules. It extends the validation provided by languages
+            such as Document Type Definitions (DTD), W3C XML Schema, and RELAX NG, giving you the ability to check your XML documents for compliance
+            with rules that can be difficult, if not impossible, to check with the other validation languages. <br/> This book explains Schematron for
+            both XML aficionados and people who are less experienced. And for those who are new to XML or have limited programming experience, it
+            contains introductions to two important topics: XPath and XML namespaces.<br/> It was published by <a
+              href="https://xmlpress.net/publications/schematron/">XML Press</a> in 2022.</td>
+        </tr>
+      </table>
+      <br/>
+      <hr/>
+      <br/>
+
+      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
       <a name="xproc-book"><!-- --></a>
       <p class="subkop">XProc - 3.0 Programmer Reference</p>
       <table class="noborder" cellspacing="10">
         <tr valign="top">
           <td class="noborder">
-            <a href="http://shop.oreilly.com/product/0636920026525.do" target="_blank">
+            <a href="https://xmlpress.net/publications/xproc-3-0/" target="_blank">
               <img src="images/publications/XProc-cover.png"/>
             </a>
           </td>
@@ -295,7 +353,7 @@
           <td class="noborder">
             <a href="http://shop.oreilly.com/product/0636920026525.do" target="_blank">
               <!-- <img src="images/exist-book-cover.gif" width="100%"/>-->
-              <img src="http://akamaicovers.oreilly.com/images/0636920026525/cat.gif"/>
+              <img src="images/publications/exist-cover.png" width="100%"/>
             </a>
           </td>
           <td class="noborder">
@@ -315,6 +373,9 @@
       </p>
       <p>The website <a href="https://www.xml.com/" target="_blank">XML.com</a> published the following article I've written:</p>
       <ul>
+        <li>
+          <a href="https://www.xml.com/articles/2022/10/17/schematron-qlb-xslt/" target="_blank">Schematron Query Language Binding and XSLT</a>
+        </li>
         <li>
           <a href="https://www.xml.com/articles/2019/11/05/introduction-xproc-30/" target="_blank">An Introduction to XProc&#160;3.0</a>
         </li>

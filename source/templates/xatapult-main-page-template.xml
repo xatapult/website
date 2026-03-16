@@ -10,32 +10,32 @@
     <meta name="msnbot" content="NOODP" />
     <meta name="googlebot" content="NOODP" />
     <meta name="robots" content="noodp,noydir" />
-    <script type="text/javascript" language="JavaScript1.2" src="js/menu.js"><!--
+    <script type="text/javascript" language="JavaScript1.2" src="${resource-link-prefix}js/menu.js"><!--
         NO CONTENT//--></script>
-    <script type="text/javascript" language="JavaScript1.2" src="js/scripts.js"><!--
+    <script type="text/javascript" language="JavaScript1.2" src="${resource-link-prefix}js/scripts.js"><!--
         NO CONTENT//--></script>
-    <link rel="shortcut icon" href="images/favicon.ico" />
-    <link href="css/menu.css" rel="stylesheet" type="text/css" />
-    <link href="css/style_std-nl.css" rel="stylesheet" type="text/css" />
-    <link href="css/print.css" rel="stylesheet" type="text/css" media="print" />
+    <link rel="${resource-link-prefix}shortcut icon" href="images/favicon.ico" />
+    <link href="${resource-link-prefix}css/menu.css" rel="stylesheet" type="text/css" />
+    <link href="${resource-link-prefix}css/style_std-nl.css" rel="stylesheet" type="text/css" />
+    <link href="${resource-link-prefix}css/print.css" rel="stylesheet" type="text/css" media="print" />
     <!--[if lt IE 6]>
-          <link href="css/style_ie.css" rel="stylesheet" type="text/css"  />
+          <link href="${resource-link-prefix}css/style_ie.css" rel="stylesheet" type="text/css"  />
           <![endif]-->
     <!--[if IE 6]>
-          <link href="css/style_ie.css" rel="stylesheet" type="text/css"  />
-          <link href="css/style_ie6.css" rel="stylesheet" type="text/css" />
+          <link href="${resource-link-prefix}css/style_ie.css" rel="stylesheet" type="text/css"  />
+          <link href="${resource-link-prefix}css/style_ie6.css" rel="stylesheet" type="text/css" />
           <![endif]-->
     <!--[if IE 7]>
-          <link href="css/style_ie.css" rel="stylesheet" type="text/css"  />
-          <link href="css/style_ie7.css" rel="stylesheet" type="text/css" />
+          <link href="${resource-link-prefix}css/style_ie.css" rel="stylesheet" type="text/css"  />
+          <link href="${resource-link-prefix}css/style_ie7.css" rel="stylesheet" type="text/css" />
           <![endif]-->
   </head>
   <body>
     <a name="top" class="top">&#160;</a>
     <div id="container">
       <div id="header">
-        <img src="images/spacer.gif" alt="Xatapult home" width="349" height="102" border="0" usemap="#LinkHomepage" />
-        <map name="LinkHomepage" id="LinkHomepage"><area shape="rect" coords="18,48,345,83" href="${homelink}" alt="Xatapult home"
+        <img src="${resource-link-prefix}images/spacer.gif" alt="Xatapult home" width="349" height="102" border="0" usemap="#LinkHomepage" />
+        <map name="LinkHomepage" id="LinkHomepage"><area shape="rect" coords="18,48,345,83" href="index.html" alt="Xatapult home"
            /></map>
       </div>
       <div id="mainContent">

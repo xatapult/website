@@ -12,7 +12,7 @@
       <br/>
       <p>Tel: ${phonenumber}</p>
       <br/>
-      <p>Web: <a href="http://www.xatapult.nl">www.xatapult.nl</a>
+      <p>Web: <a href="index.html">www.xatapult.nl</a>
       </p>
       <p>Mail: <a href="mailto:${email}">${email}</a>
       </p>
@@ -47,7 +47,7 @@
       <br/>
       <p>Phone: ${phonenumber}</p>
       <br/>
-      <p>Web: <a href="http://www.xatapult.com">www.xatapult.com</a>
+      <p>Web: <a href="index.html">www.xatapult.nl</a>
       </p>
       <p>Mail: <a href="mailto:${email}">${email}</a>
       </p>

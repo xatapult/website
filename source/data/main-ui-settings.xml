@@ -9,37 +9,13 @@
     <mainmenu xmlns="">
 
       <!-- Home links: -->
-      <menu href="${homelink}" caption="home" xtlwg:lang="nl">
-        <submenu href="${homelink-other}" caption="English version"/>
+      <menu href="index.html" caption="home" xtlwg:lang="nl">
+        <submenu href="en/index.html" caption="English version"/>
       </menu>
-      <menu href="${homelink}" caption="home" xtlwg:lang="en">
-        <submenu href="${homelink-other}" caption="Dutch version"/>
+      <menu href="index.html" caption="home" xtlwg:lang="en">
+        <submenu href="../index.html" caption="Dutch version"/>
       </menu>
-
-      <!-- Profiel -->
-      <!--<menu href="about.html" caption="profiel" xtlwg:lang="nl">
-        <submenu href="about.html" caption="over Xatapult"/>
-        <submenu href="customers.html" caption="klanten"/>
-        <submenu href="services.html" caption="diensten"/>
-        <submenu href="erik.html" caption="over Erik Siegel"/>
-      </menu>
-      <menu href="about.html" caption="profile" xtlwg:lang="en">
-        <submenu href="about.html" caption="about Xatapult"/>
-        <submenu href="customers.html" caption="customers"/>
-        <submenu href="services.html" caption="services"/>
-        <submenu href="erik.html" caption="about Erik Siegel"/>
-      </menu>-->
-
-      <!-- Achtergronden -->
-      <!-- <menu href="content-engineering.html" caption="achtergrond informatie" xtlwg:lang="nl">
-        <submenu href="content-engineering.html" caption="content engineering"/>
-        <submenu href="xml.html" caption="xml"/>
-      </menu>
-      <menu href="content-engineering.html" caption="background information" xtlwg:lang="en">
-        <submenu href="content-engineering.html" caption="content engineering"/>
-        <submenu href="xml.html" caption="xml"/>
-      </menu>-->
-
+     
       <!-- Publicaties -->
       <menu href="publications.html" caption="publicaties" xtlwg:lang="nl"/>
       <menu href="publications.html" caption="publications" xtlwg:lang="en"/>
@@ -47,8 +23,8 @@
       <!-- Contact -->
       <menu href="contact.html" caption="contact"/>
 
-      <menu xtlwg:lang="en" href="${homelink-other}" caption="Dutch version" image="images/nl-flag.png"/>
-      <menu xtlwg:lang="nl" href="${homelink-other}" caption="English version" image="images/uk-flag.png"/>
+      <menu xtlwg:lang="en" href="../index.html" caption="Dutch version" image="../images/nl-flag.png"/>
+      <menu xtlwg:lang="nl" href="en/index.html" caption="English version" image="images/uk-flag.png"/>
 
     </mainmenu>
   </section>
@@ -60,16 +36,28 @@
     <infocolumn xmlns="">
 
       <section xtlwg:lang="nl" title="Meer Xatapult:">
-        <entry href="${homelink-other}">English version</entry>
+        <entry href="en/index.html}">English version</entry>
         <entry href="http://www.linkedin.com/in/esiegel" newwindow="true">LinkedIn Erik</entry>
         <entry href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" newwindow="true">CV</entry>
 
       </section>
 
       <section xtlwg:lang="en" title="More Xatapult:">
-        <entry href="${homelink-other}">Dutch version</entry>
+        <entry href="../index.html">Dutch version</entry>
         <entry href="http://www.linkedin.com/in/esiegel" newwindow="true">LinkedIn Erik</entry>
         <entry href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" newwindow="true">CV</entry>
+      </section>
+      
+      <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+      
+      <section xtlwg:lang="nl" title="Aanvullende websites:">
+        <entry href="http://www.xprocref.org/" newwindow="true">XProc&#160;3 reference</entry>
+        <entry href="http://www.xtpxlib.org/" newwindow="true">Open source library xtpxlib</entry>
+      </section>
+      
+      <section xtlwg:lang="en" title="Additional websites:">
+        <entry href="http://www.xprocref.org/" newwindow="true">XProc&#160;3 reference</entry>
+        <entry href="http://www.xtpxlib.org/" newwindow="true">Open source library xtpxlib</entry>
       </section>
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -108,30 +96,36 @@
 
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-      <section title="Software:">
-        <entry href="http://www.xtpxlib.org/" newwindow="true">xtpxlib</entry>
+      <section xtlwg:lang="nl" title="Aanvullende XML informatie:">
+        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">XML</entry>
+        <entry href="http://en.wikipedia.org/wiki/Content_Engineering" newwindow="true">Content Engineering</entry>
+        <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
+        <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
+        <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>
+        <entry href="http://www.xml.org" newwindow="true">Oasis XML Website</entry>
+        <entry href="http://www.w3.org/XML/" newwindow="true">W3C XML Website</entry>
       </section>
 
+      <section xtlwg:lang="en" title="Additional XML information:">
+        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">XML</entry>
+        <entry href="http://en.wikipedia.org/wiki/Content_Engineering" newwindow="true">Content Engineering</entry>
+        <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
+        <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
+        <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>
+        <entry href="http://www.xml.org" newwindow="true">Oasis XML Website</entry>
+        <entry href="http://www.w3.org/XML/" newwindow="true">W3C XML Website</entry>
+      </section>
+      
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-      <section xtlwg:lang="nl" title="Aanvullende informatie:">
-        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">XML</entry>
-        <entry href="http://en.wikipedia.org/wiki/Content_Engineering" newwindow="true">Content Engineering</entry>
-        <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
-        <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
-        <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>
-        <entry href="http://www.xml.org" newwindow="true">Oasis XML Website</entry>
-        <entry href="http://www.w3.org/XML/" newwindow="true">W3C XML Website</entry>
+      
+      <section xtlwg:lang="nl" title="Hobby">
+        <entry href="http://www.eriksiegel.nl" newwindow="true">Erik&#x2019;s Theatronics</entry>
+        <entry href="http://ci.eriksiegel.nl" newwindow="true">Componenten te koop</entry>
       </section>
-
-      <section xtlwg:lang="en" title="Additional information:">
-        <entry href="http://en.wikipedia.org/wiki/Xml" newwindow="true">XML</entry>
-        <entry href="http://en.wikipedia.org/wiki/Content_Engineering" newwindow="true">Content Engineering</entry>
-        <entry href="http://www.w3schools.com/" newwindow="true">W3Schools</entry>
-        <entry href="http://www.xml.com/" newwindow="true">xml.com</entry>
-        <entry href="http://xml.coverpages.org" newwindow="true">XML Coverpages</entry>
-        <entry href="http://www.xml.org" newwindow="true">Oasis XML Website</entry>
-        <entry href="http://www.w3.org/XML/" newwindow="true">W3C XML Website</entry>
+      
+      <section xtlwg:lang="en" title="Hobby">
+        <entry href="http://www.eriksiegel.nl" newwindow="true">Erik&#x2019;s Theatronics</entry>
+        <entry href="http://ci.eriksiegel.nl" newwindow="true">Components for sale</entry>
       </section>
 
     </infocolumn>

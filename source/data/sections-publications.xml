@@ -306,7 +306,7 @@
         <tr valign="top">
           <td class="noborder">
             <a href="https://xmlpress.net/publications/xproc-3-0/" target="_blank">
-              <img src="images/publications/schematron-cover.png"/>
+              <img src="../images/publications/schematron-cover.png"/>
             </a>
           </td>
           <td class="noborder">
@@ -330,7 +330,7 @@
         <tr valign="top">
           <td class="noborder">
             <a href="https://xmlpress.net/publications/xproc-3-0/" target="_blank">
-              <img src="images/publications/XProc-cover.png"/>
+              <img src="../images/publications/XProc-cover.png"/>
             </a>
           </td>
           <td class="noborder">
@@ -352,8 +352,7 @@
         <tr valign="top">
           <td class="noborder">
             <a href="http://shop.oreilly.com/product/0636920026525.do" target="_blank">
-              <!-- <img src="images/exist-book-cover.gif" width="100%"/>-->
-              <img src="images/publications/exist-cover.png" width="100%"/>
+              <img src="../images/publications/exist-cover.png" width="100%"/>
             </a>
           </td>
           <td class="noborder">

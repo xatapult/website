@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xwebgen-specification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.xtpxlib.nl/ns/xwebgen ../../xtpxlib-xwebgen/xsd/xwebgen-specification.xsd" xmlns="http://www.xtpxlib.nl/ns/xwebgen"
-  xmlns:xtlwg="http://www.xtpxlib.nl/ns/xwebgen" href-base-output-dir="../build/site-${lang}-${system}">
+  xmlns:xtlwg="http://www.xtpxlib.nl/ns/xwebgen" href-base-output-dir="../docs/${lang-dir-suffix}">
+  <!-- WARNING the value of @href-base-output-dir is repeated in the href-base-outpt-dir option of ../xpl3/create-xatapult-website.xpl -->
 
   <!-- ================================================================== -->
   <!--
-    Main xwebgen specification file for the Xatapult website. Expects two filter parameters:
-    - lang=nl or lang=en
-    - system=PRD or system=TST
-      TST will generate some other links to cater for the fact that the whole shebang is file based (and not served by a web-server)
+    Main xwebgen specification file for the Xatapult website.
   -->
   <!-- ================================================================== -->
   <!-- TEMPLATES: -->
@@ -20,18 +18,7 @@
 
   <!-- Home page: -->
   <page template-idref="main" href-section-document="data/sections-home.xml" section-idref="home" href-target="index.html"/>
-
-  <!-- Profile pages: -->
-  <!--<page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-about" href-target="about.html"/>
-  <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-customers" href-target="customers.html"/>
-  <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-services" href-target="services.html"/>
-  <page template-idref="main" href-section-document="data/sections-profile.xml" section-idref="page-erik" href-target="erik.html"/>-->
-
-  <!-- Background pages: -->
-  <!-- <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-content-engineering"
-    href-target="content-engineering.html"/>
-  <page template-idref="main" href-section-document="data/sections-background-information.xml" section-idref="page-xml" href-target="xml.html"/>-->
-
+  
   <!-- Publications: -->
   <page template-idref="main" href-section-document="data/sections-publications.xml" section-idref="page-publications" href-target="publications.html"/>
 
@@ -41,10 +28,10 @@
   <!-- ================================================================== -->
   <!-- FIXED DIRECTORIES: -->
 
-  <copy-dir href-source-dir="images"/>
-  <copy-dir href-source-dir="css"/>
-  <copy-dir href-source-dir="js"/>
-  <copy-dir href-source-dir="resources"/>
+  <copy-dir xtlwg:lang="nl" href-source-dir="images"/>
+  <copy-dir xtlwg:lang="nl" href-source-dir="css"/>
+  <copy-dir xtlwg:lang="nl" href-source-dir="js"/>
+  <copy-dir xtlwg:lang="nl" href-source-dir="resources"/>
 
   <!-- ================================================================== -->
   <!-- GLOBAL PROPERTIES: -->
@@ -55,21 +42,8 @@
     <property id="page-title">Xatapult - Content Engineering</property>
 
     <!-- Phone and e-mail basics: -->
-    <property id="phonenumber" xtlwg:lang="nl">06&#160;-&#160;53260792</property>
-    <property id="phonenumber" xtlwg:lang="en">+31&#160;-&#160;6&#160;-&#160;53260792</property>
-    <property id="email" xtlwg:lang="nl">info@xatapult.nl</property>
-    <property id="email" xtlwg:lang="en">info@xatapult.com</property>
-
-    <!-- Home links for TST: -->
-    <property id="homelink" xtlwg:system="TST">index.html</property>
-    <property id="homelink-other" xtlwg:lang="nl" xtlwg:system="TST">../site-en-TST/index.html</property>
-    <property id="homelink-other" xtlwg:lang="en" xtlwg:system="TST">../site-nl-TST/index.html</property>
-
-    <!-- Home links for PRD: -->
-    <property id="homelink" xtlwg:lang="nl" xtlwg:system="PRD">http://www.xatapult.nl</property>
-    <property id="homelink" xtlwg:lang="en" xtlwg:system="PRD">http://www.xatapult.com</property>
-    <property id="homelink-other" xtlwg:lang="nl" xtlwg:system="PRD">http://www.xatapult.com</property>
-    <property id="homelink-other" xtlwg:lang="en" xtlwg:system="PRD">http://www.xatapult.nl</property>
+    <property id="phonenumber">+31&#160;-&#160;6&#160;-&#160;53260792</property>
+    <property id="email">info@xatapult.nl</property>
 
     <!-- Address: -->
     <property id="address-line">Oude&#160;Almeloseweg&#160;8</property>
@@ -84,7 +58,7 @@
     <property id="bank-name">ASN&#160;Bank</property>
     <property id="vat-code">NL001654294B54</property>
     <property id="kvk-code">02072375</property>
-    
+
   </properties>
 
 </xwebgen-specification>

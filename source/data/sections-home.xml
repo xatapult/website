@@ -32,8 +32,7 @@
                 href="https://www.linkedin.com/in/esiegel/" target="_blank">LinkedIn profiel</a>. </p>
           </td>
           <td class="noborder" nowrap="yes"
-              >&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<!--<img src="images/erik.jpg" alt="Erik Siegel"
-              height="225px" width="225px"/>--><img
+              >&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<img
               src="images/erik2.jpg" alt="Erik Siegel" width="250px"/>
             <p align="right">
               <font size="-3" color="#999">(foto: Maaike&#160;Siegel)</font>
@@ -73,9 +72,8 @@
                 href="https://www.linkedin.com/in/esiegel/" target="_blank">LinkedIn profile</a>. </p>
           </td>
           <td class="noborder" nowrap="yes"
-              >&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<!--<img src="images/erik.jpg" alt="Erik Siegel"
-              height="225px" width="225px"/>--><img
-              src="images/erik2.jpg" alt="Erik Siegel" width="250px"/>
+              >&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<img
+              src="../images/erik2.jpg" alt="Erik Siegel" width="250px"/>
             <p align="right">
               <font size="-3" color="#999">(Photo by Maaike&#160;Siegel)</font>
             </p>

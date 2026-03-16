@@ -192,6 +192,9 @@
                                         </xprocParameterPort>
                                     </xprocParameterPort-array>
                                 </field>
+                                <field name="configFile">
+                                    <null/>
+                                </field>
                                 <field name="advancedOptionsMap">
                                     <null/>
                                 </field>
@@ -268,7 +271,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Add-on for Calabash XProc Engine</String>
+                                    <String>XML Calabash 1.X</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
@@ -281,7 +284,7 @@
         </options>
     </meta>
     <projectTree name="xatapult-website-dev.xpr">
-        <folder path="../../website-ina/"/>
+        <folder path="../../website-eriksiegel-nl/"/>
         <folder path="../"/>
         <folder path="../../xtpxlib-common/"/>
         <folder path="../../xtpxlib-xwebgen/"/>

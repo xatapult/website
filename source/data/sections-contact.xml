@@ -59,15 +59,15 @@
       <p>BIC (${bank-name}, ${country}): ${bic}</p>
       <br/>
       <p>
-        <a href="resources/Profile%20Xatapult-Erik%20Siegel.pdf" target="_blank">Company profile/resume</a>
+        <a href="../resources/Profile%20Xatapult-Erik%20Siegel.pdf" target="_blank">Company profile/resume</a>
       </p>
       <br/>
       <p>
-        <a href="/resources/Algemene voorwaarden 7-11-2005.pdf" target="_blank">Terms and Conditions (sorry, Dutch only)</a>
+        <a href="../resources/Algemene voorwaarden 7-11-2005.pdf" target="_blank">Terms and Conditions (sorry, Dutch only)</a>
       </p>
       <br/>
       <p>
-        <a href="resources/Privacy%20verklaring%20Xatapult.pdf" target="_blank">Privacy statement (sorry, Dutch only)</a>
+        <a href="../resources/Privacy%20verklaring%20Xatapult.pdf" target="_blank">Privacy statement (sorry, Dutch only)</a>
       </p>
     </div>
   </section>

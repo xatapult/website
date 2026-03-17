@@ -42,8 +42,8 @@
     <property id="page-title">Xatapult - Content Engineering</property>
 
     <!-- Phone and e-mail basics: -->
-    <property id="phonenumber">+31&#160;-&#160;6&#160;-&#160;53260792</property>
-    <property id="email">info@xatapult.nl</property>
+    <property id="phonenumber">+31-6-53260792</property>
+    <property id="email">erik@xatapult.nl</property>
 
     <!-- Address: -->
     <property id="address-line">Oude&#160;Almeloseweg&#160;8</property>

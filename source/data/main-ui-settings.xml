@@ -63,12 +63,14 @@
       <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
       <section xtlwg:lang="nl" title="Boeken:">
+        <entry href="https://xmlpress.net/publications/schematron-2025/" newwindow="true">Schematron&#160;2025</entry>
         <entry href="https://xmlpress.net/publications/schematron/" newwindow="true">Schematron</entry>
         <entry href="https://xmlpress.net/publications/xproc-3-0/" newwindow="true">XProc&#160;3.0</entry>
         <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
       </section>
 
       <section xtlwg:lang="en" title="Books:">
+        <entry href="https://xmlpress.net/publications/schematron-2025/" newwindow="true">Schematron&#160;2025</entry>
         <entry href="https://xmlpress.net/publications/schematron/" newwindow="true">Schematron</entry>
         <entry href="https://xmlpress.net/publications/xproc-3-0/" newwindow="true">XProc&#160;3.0</entry>
         <entry href="http://shop.oreilly.com/product/0636920026525.do" newwindow="true">eXist</entry>
